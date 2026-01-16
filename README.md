@@ -45,3 +45,14 @@ Once the app is running, use the following credentials to access the Admin Dashb
 * **Password:** `admin123`
 
 ## 📂 Project Structure
+├── app.py # Main Application (Frontend + Logic) ├── churn_model.pkl # Trained Machine Learning Model (Serialized) ├── requirements.txt # List of dependencies └── README.md # Project Documentation
+
+## 📈 Future Scope
+* Integration with a live SQL Database for real-time customer fetching.
+* Automated email alerts for "High Risk" customers.
+* Deployment as a microservice using Flask/FastAPI.
+
+## 👤 Author
+**PRANSHU SHARMA**
+Final Year BCA Student
+Amity University Punjab, Mohali
