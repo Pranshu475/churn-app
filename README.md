@@ -45,10 +45,11 @@ Once the app is running, use the following credentials to access the Admin Dashb
 * **Password:** `admin123`
 
 ## 📂 Project Structure
-├── app.py # Main Application (Frontend + Logic) 
-├── churn_model.pkl # Trained Machine Learning Model (Serialized) 
-├── requirements.txt # List of dependencies 
-└── README.md # Project Documentation
+Customer-Churn-Prediction/
+├── app.py                # Main Application (Frontend + AI Logic)
+├── churn_model.pkl       # Serialized Machine Learning Model
+├── requirements.txt      # List of Python dependencies
+└── README.md             # Project Documentation
 
 ## 📈 Future Scope
 * Integration with a live SQL Database for real-time customer fetching.
